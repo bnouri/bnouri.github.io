@@ -1,0 +1,65 @@
+body {
+  padding-top: 100px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 100px;
+  }
+}
+
+
+.profile-pic{
+	width:100%;
+	max-width: 200px;
+	border:3px solid #fff;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	-webkit-box-shadow: -1px 0px 19px 0px rgba(0,0,0,0.37);
+	-moz-box-shadow: -1px 0px 19px 0px rgba(0,0,0,0.37);
+	box-shadow: -1px 0px 19px 0px rgba(0,0,0,0.37);
+}
+
+
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
+
+.pub-download{
+  min-width:230px;
+  text-align: left;
+  padding:0px 20px 0 0;
+  height:40px;
+  margin: 10px  0;
+  vertical-align: middle;
+  font-size: 1rem;
+  font-family: 'Roboto';
+  font-weight: 200;
+  text-transform: capitalize
+}
+
+.pub-download i{
+  height: 100%;
+  padding: 12px 10px;
+  border-style: solid;
+  border-width: 0 1px 0 0;
+  text-align: left;
+  margin-right:10px;
+}
+
+.link-div{
+	background-color:  #f2f2f2;
+	padding:20px;
+	margin-bottom: 30px;
+}
+
+#links h3{
+	font-weight: 600;
+	margin-bottom:20px;
+}
+
+#links h4{
+	text-decoration: underline;
+	margin-bottom:5px;
+	font-size: 1.2rem;
+}
+
+
