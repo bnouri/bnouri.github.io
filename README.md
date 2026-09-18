@@ -46,10 +46,10 @@ His research interests include numerical algorithms for circuit and system simul
 ---
 ### Recommended Readings
 
-**Achar, R., and M. S. Nakhla.**, “Simulation of High-Speed Interconnects.” *Proceedings of the IEEE*, vol. 89, no. 5, May 2001, pp. 693–728. DOI: [10.1109/5.929650](https://doi.org/10.1109/5.929650)  
+**Achar, R., and M. S. Nakhla.**, “Simulation of High-Speed Interconnects.” *Proceedings of the IEEE*, vol. 89, no. 5, May 2001, pp. 693–728. DOI: [10.1109/5.929650](https://doi.org/10.1109/5.929650)   
 **Paper:** [achar_2001_simulation_of_high-speed_interconnects](./achar_2001_simulation_of_high-speed_interconnects.pdf)
 
-**Odabasioglu, A., et al.**, "PRIMA: Passive Reduced-Order Interconnect Macromodeling Algorithm.", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, vol. 17, no. 8, Aug. 1998, pp. 645–54. DOI: [10.1109/43.712097](https://doi.org/10.1109/43.712097)
+**Odabasioglu, A., et al.**, "PRIMA: Passive Reduced-Order Interconnect Macromodeling Algorithm.", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, vol. 17, no. 8, Aug. 1998, pp. 645–54. DOI: [10.1109/43.712097](https://doi.org/10.1109/43.712097)   
 **Paper:** [odabasioglu_1998_prima](./odabasioglu_1998_prima.pdf)
 
 
