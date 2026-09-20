@@ -10,6 +10,8 @@
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-behzad-nouri-8b111429/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=2_Qj8WgAAAAJ)
 
 ---
 
