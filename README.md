@@ -9,6 +9,9 @@
 **Tel:** (306) 9661677
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-behzad-nouri-8b111429/)
+
+---
 
 ## About Me
 Behzad Nouri is an Associate Professor and the Siemens EDA Chair in Electronic Design Automation at the University of Saskatchewan. He received his M.Sc. and Ph.D. degrees in Electrical and Computer Engineering, with a research focus in Electronic Design Automation, from Carleton University in 2008 and 2014. His professional background includes research and development roles at Cadence Design Systems and Siemens EDA, as well as nearly a decade of academic research at Carleton University as a Postdoctoral Research Associate and Adjunct Research Professor. 
