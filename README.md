@@ -1,11 +1,11 @@
 <img src="./Behzad_Nouri.png" width="150" style="border-radius: 50%;" alt="Behzad Nouri"> 
-<a id="main-menu"></a>
+
 # Behzad Nouri, PhD - ECE, PEng, MIEEE
 
 [Personal Info.](BehzadNouri.md)
 
 ---
-
+<a id="Classes"></a>
 ## Classes
 * Computer-Aided Design of Circuits and Systems -- Undergrad
 * Advanced Methods for Simulation of Large-Scale Circuits and Systems -- Grad
