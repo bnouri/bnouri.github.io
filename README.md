@@ -6,7 +6,7 @@
 **Office 3B56, Engineering Building**,\
 *57 Campus Drive, Saskatoon, SK, S7N 5A9*\
 ```text
-Email:  nouri(at)usask(dot)ca,\
+Email:  nouri(at)usask(dot)ca
 Tel:    (306) 9661677
 ```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-behzad-nouri-8b111429/)
