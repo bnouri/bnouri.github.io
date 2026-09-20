@@ -28,6 +28,5 @@ RF and optical systems, uncertainty quantification, and computational science.
 He has authored more than 32 refereed publications, serves on multiple IEEE technical program committees, and actively reviews for several IEEE Transactions.
 
 ---
-[Back to main](https://bnouri.github.io)
 
-[⬅️ Back](#classes)
+[⬅️ Back](https://bnouri.github.io)
