@@ -1,7 +1,7 @@
 <img src="./Behzad_Nouri.png" width="150" style="border-radius: 50%;" alt="Behzad Nouri"> 
 
 # Behzad Nouri, PhD - ECE, PEng, MIEEE
-**Siemens EDA Chair and Associate Professor, Electrical and Computer Engineering**
+**Siemens EDA Chair and Associate Professor, Electrical and Computer Engineering**  
 **Office 3B56, Engineering Building**, *57 Campus Drive, Saskatoon, SK, S7N 5A9*
 **Email:** nouri(at)usask(dot)ca, **Tel:** (306) 9661677
 
