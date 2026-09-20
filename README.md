@@ -1,7 +1,7 @@
 <img src="./Behzad_Nouri.png" width="150" style="border-radius: 50%;" alt="Behzad Nouri"> 
-
 # Behzad Nouri, PhD - ECE, PEng, MIEEE
 [Personal Info.](BehzadNouri.md)
+
 ---
 
 ## Classes
