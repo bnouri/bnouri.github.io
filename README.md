@@ -54,7 +54,7 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 
 ---
 ### References for Circuit Simulation
-[List of EDA Literature References](./List-of-EDA-Literature-References.pdf)
+[List of EDA Literature References](./A-List-of-EDA-Literature-References.pdf)
 
 ---
 ## Useful Links & Resources:
