@@ -52,6 +52,9 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 **Odabasioglu, A., et al.**, "PRIMA: Passive Reduced-Order Interconnect Macromodeling Algorithm.", *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, vol. 17, no. 8, Aug. 1998, pp. 645–54. DOI: [10.1109/43.712097](https://doi.org/10.1109/43.712097)   
 **Paper:** [odabasioglu_1998_prima](./odabasioglu_1998_prima.pdf)
 
+---
+### References for Circuit Simulation
+[List of EDA Literature References](./List-of-EDA-Literature-References.pdf)
 
 ---
 ## Useful Links & Resources:
