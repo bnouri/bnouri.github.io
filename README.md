@@ -43,6 +43,8 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 * [Macromodelling of Multiconductor Transmission Lines for Circuit Simulation](./MTL-Macromodel-25a05-v6.pdf)
 * [Standard Form for P.U.L RLGC Matrices of MTLs (Summary)](./PUL-RLGC-Matrices-format-v4.pdf)
 
+* [S-parameters Theory, Definition, Applications, and Analysis](./S-parameters-6a05-v2.pdf)
+
 ---
 ### Recommended Readings
 
