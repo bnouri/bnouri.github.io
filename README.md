@@ -40,7 +40,7 @@
 ### Signal, Power, and EM Integrity
 In modern technology nodes, signal, power, and thermal integrity have become critical design bottlenecks spanning from board- and package-level routing to sub-micron VLSI implementations. The compiled notes and references below highlight core theoretical principles, modelling methodologies, and practical insights gathered from research and design practice.
 
-* [Standard Form for Per-Unit-Length RLGC Matrices of Multiconductor Transmission Lines](./PUL-RLGC-Matrices-v4.pdf)
+* [Macromodelling of Multiconductor Transmission Lines for Circuit Simulation](./MTL-Macromodel-25a05-v6.pdf)
 * [Standard Form for P.U.L RLGC Matrices of MTLs (Summary)](./PUL-RLGC-Matrices-format-v4.pdf)
 
 ---
