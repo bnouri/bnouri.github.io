@@ -58,7 +58,7 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 # A list of Useful References on Circuit Simulation
 * [List of EDA Literature References](./A-List-of-EDA-Literature-References.pdf)
 
----
+
 # Podcasts (Audio Reviews)
 <audio controls preload="metadata">
 <source src="Why-Perfect-Math-Breaks-Circuit-Simulators.mp3" type="audio/mpeg">
@@ -66,7 +66,7 @@ Your browser does not support the audio element.
 </audio>
 
 * [Why Perfect Math Breaks Circuit Simulators](https://drive.google.com/file/d/1lEPIETwP2GGQ5xVLc6JhBwYSTV5zhBxm/view?usp=drive_link)
----
+
 
 # Useful Links & Resources:
 
