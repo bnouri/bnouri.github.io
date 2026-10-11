@@ -19,7 +19,7 @@
 * To be added.
 
 ---
-### Formulation of Circuit Equations:
+# Formulation of Circuit Equations:
 #### Lecture Videos by Professor Roni Khzaka (McGill Univ.)
 * Introduction to Modified Nodal Analysis:  [YouTube Video -1](https://youtu.be/BPapfxzwsmI?si=rvXkGTpNM_lfbeu8)
 * MNA stamps for 
@@ -59,11 +59,15 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 * [List of EDA Literature References](./A-List-of-EDA-Literature-References.pdf)
 
 ---
-# Podcasts
+# Podcasts (Audio Reviews)
+<audio controls preload="metadata">
+  <source src="Why Perfect Math Breaks Circuit Simulations.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 * [Why Perfect Math Breaks Circuit Simulators](https://drive.google.com/file/d/1lEPIETwP2GGQ5xVLc6JhBwYSTV5zhBxm/view?usp=drive_link)
 ---
 
-## Useful Links & Resources:
+# Useful Links & Resources:
 
 ### LaTeX Guides & Tools
 LaTeX is a document preparation system designed for high-quality typesetting, most often used for technical or scientific documents. 
@@ -76,5 +80,5 @@ LaTeX is a document preparation system designed for high-quality typesetting, mo
     * [LaTeX cheat sheet](https://www.nyu.edu/projects/beber/files/Chang_LaTeX_sheet.pdf)
     * [Comprehensive LaTeX Symbol List](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
 
-### Research Methodologies
+# Research Methodologies
 * **How to Write a Research Paper:** [YouTube Video](https://www.youtube.com/watch?v=sSnxXQgUCyY&feature=youtu.be)
