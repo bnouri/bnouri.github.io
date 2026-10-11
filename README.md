@@ -72,13 +72,7 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
   Intended strictly for educational purposes; direct commercial or public use is not advised.
 </p>
    
-<p style="font-size: 0.85em; color: #666; margin-top: 8px;">
-  <em>Disclaimer:</em> This audio overview is AI-generated based on my technical note titled as
-  <strong>"SPICE DC Operating Point Singularities &amp; Remedies"</strong> using Google NotebookLM. 
-  Intended strictly for educational purposes; direct commercial or public use is not advised.
-</p>
-
-
+---
 # Useful Links & Resources:
 
 ### LaTeX Guides & Tools
@@ -92,5 +86,6 @@ LaTeX is a document preparation system designed for high-quality typesetting, mo
     * [LaTeX cheat sheet](https://www.nyu.edu/projects/beber/files/Chang_LaTeX_sheet.pdf)
     * [Comprehensive LaTeX Symbol List](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf)
 
+---
 # Research Methodologies
 * **How to Write a Research Paper:** [YouTube Video](https://www.youtube.com/watch?v=sSnxXQgUCyY&feature=youtu.be)
