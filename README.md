@@ -57,8 +57,13 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 ---
 # A list of Useful References on Circuit Simulation
 * [List of EDA Literature References](./A-List-of-EDA-Literature-References.pdf)
+<p style="font-size: 0.85em; color: #666; margin-top: 8px;">
+  <em>Disclaimer:</em> This audio overview is an AI-generated summary based on my technical note titled as
+  <strong>"SPICE DC Operating Point Singularities &amp; Remedies"</strong> using Google NotebookLM. 
+  Intended strictly for educational purposes; direct commercial or public use is not advised.
+</p>
 
-
+---
 # Podcasts (Audio Reviews)
 * **Why Perfect Math Breaks Circuit Simulators:**
    <audio controls preload="metadata">
