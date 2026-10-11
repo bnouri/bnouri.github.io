@@ -34,7 +34,7 @@
     * Current Controlled Voltage Sources: [YouTube Video-10](https://youtu.be/A2lFVxuOrJA?si=9v0zNpaLZ31YAlae)
     * Nonlinear Resistors, Capacitors and Inductors: [YouTube Video-11](https://youtu.be/Ys8az800pUs?si=3b1D8HeYbBKV4ngL)
 
-**Courtesy Note:** These videos were seamlessly prepared by my good friend and knowledgeable colleague, Professor Roni Khazaka. Since we both trained under the same supervisor at Carleton University's EDA lab, you might spot some familiar similarities in our teaching styles and core concepts!
+**Courtesy Note:** These videos were seamlessly prepared by my good friend and knowledgeable colleague, Professor Roni Khazaka. Since we both trained under the same supervisor at Carleton University's EDA lab, you might notice similarities in our teaching styles and some core concepts!
 
 ---
 # Signal, Power, and EM Integrity
@@ -67,6 +67,7 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 </audio>
 
 * [Why Perfect Math Breaks Circuit Simulators](https://drive.google.com/file/d/1lEPIETwP2GGQ5xVLc6JhBwYSTV5zhBxm/view?usp=drive_link)
+* [Listen to the Podcast](player.html)
 
 
 # Useful Links & Resources:
