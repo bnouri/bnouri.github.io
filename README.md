@@ -76,7 +76,7 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 # Useful Links & Resources:
 ## LaTeX Templates
 * [LaTeX template for Capstone Design Final Report](./USASK-ECE-Capstone-Report-Template-261010-V2.zip)
-* 
+
 ## LaTeX Guides & Tools
 LaTeX is a document preparation system designed for high-quality typesetting, most often used for technical or scientific documents. 
 * **Online Compiler:** [Overleaf](https://www.overleaf.com/)
