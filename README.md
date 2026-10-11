@@ -60,7 +60,7 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 
 ---
 # Podcasts
-* [Why Perfect Math Breaks Circuit Simulators](./Why Perfect Math Breaks Circuit Simulators.mp3)
+* [Why Perfect Math Breaks Circuit Simulators](https://drive.google.com/file/d/1lEPIETwP2GGQ5xVLc6JhBwYSTV5zhBxm/view?usp=drive_link)
 ---
 
 ## Useful Links & Resources:
