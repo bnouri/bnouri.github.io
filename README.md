@@ -70,7 +70,12 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
       <source src="Why-Perfect-Math-Breaks-Circuit-Simulators.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
    </audio>
-
+   
+<p style="font-size: 0.85em; color: #666; margin-top: 8px;">
+  <em>Disclaimer:</em> This audio overview is AI-generated based on my technical note titled as
+  <strong>"SPICE DC Operating Point Singularities &amp; Remedies"</strong> using Google NotebookLM. 
+  Intended strictly for educational purposes; direct commercial or public use is not advised.
+</p>
 
 
 # Useful Links & Resources:
