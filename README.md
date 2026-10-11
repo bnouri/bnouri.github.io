@@ -60,11 +60,11 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 
 
 # Podcasts (Audio Reviews)
-* **Why Perfect Math Breaks Circuit Simulators:
-<audio controls preload="metadata">
-<source src="Why-Perfect-Math-Breaks-Circuit-Simulators.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+* **Why Perfect Math Breaks Circuit Simulators:**
+   <audio controls preload="metadata">
+      <source src="Why-Perfect-Math-Breaks-Circuit-Simulators.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+   </audio>
 
 
 
