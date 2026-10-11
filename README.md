@@ -6,7 +6,7 @@
 
 ---
 
-## Classes
+# Classes
 * Computer-Aided Design of Circuits and Systems -- Undergrad
 * Advanced Methods for Simulation of Large-Scale Circuits and Systems -- Grad
 * Simulation of High-Speed Interconnects and Vector-Fitting -- Grad
@@ -15,7 +15,7 @@
 
 ---
 
-## Publications
+# Publications
 * To be added.
 
 ---
@@ -37,7 +37,7 @@
 **Courtesy Note:** These videos were seamlessly prepared by my good friend and knowledgeable colleague, Professor Roni Khazaka. Since we both trained under the same supervisor at Carleton University's EDA lab, you might spot some familiar similarities in our teaching styles and core concepts!
 
 ---
-### Signal, Power, and EM Integrity
+# Signal, Power, and EM Integrity
 In modern technology nodes, signal, power, and thermal integrity have become critical design bottlenecks spanning from board- and package-level routing to sub-micron VLSI implementations. The compiled notes and references below highlight core theoretical principles, modelling methodologies, and practical insights gathered from research and design practice.
 
 * [Macromodelling of Multiconductor Transmission Lines for Circuit Simulation](./MTL-Macromodel-25a05-v6.pdf)
@@ -46,7 +46,7 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 * [S-parameters Theory, Definition, Applications, and Analysis](./S-parameters-6a05-v2.pdf)
 
 ---
-### Recommended Readings
+# Recommended Readings
 
 **Achar, R., and M. S. Nakhla.**, “Simulation of High-Speed Interconnects.” *Proceedings of the IEEE*, vol. 89, no. 5, May 2001, pp. 693–728. DOI: [10.1109/5.929650](https://doi.org/10.1109/5.929650)   
 **Paper:** [achar_2001_simulation_of_high-speed_interconnects](./achar_2001_simulation_of_high-speed_interconnects.pdf)
@@ -55,12 +55,12 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 **Paper:** [odabasioglu_1998_prima](./odabasioglu_1998_prima.pdf)
 
 ---
-### A list of Useful References on Circuit Simulation
+# A list of Useful References on Circuit Simulation
 * [List of EDA Literature References](./A-List-of-EDA-Literature-References.pdf)
 
 ---
 # Podcasts
-* [List of EDA Literature References](./A-List-of-EDA-Literature-References.pdf)
+* [Why Perfect Math Breaks Circuit Simulators](./Why Perfect Math Breaks Circuit Simulators.mp3)
 ---
 
 ## Useful Links & Resources:
