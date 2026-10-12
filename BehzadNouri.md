@@ -7,11 +7,10 @@
 Email:  nouri(at)usask(dot)ca
 Tel:    (306) 9661677
 ```
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-behzad-nouri-8b111429/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=2_Qj8WgAAAAJ)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg){: width="20" height="20"}](https://orcid.org/0000-0002-8296-8300))  
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-behzad-nouri-8b111429/) &nbsp;&nbsp;
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=2_Qj8WgAAAAJ) &nbsp;&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8296-8300) &nbsp;&nbsp;
 
 ---
 
