@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=2_Qj8WgAAAAJ)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg){: width="20" height="20"}](https://orcid.org/0000-0002-8296-8300))  
+[![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg){: width="20" height="20"}](https://orcid.org/0000-0002-8296-8300)
 ---
 
 # Classes
