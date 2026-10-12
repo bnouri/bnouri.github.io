@@ -11,17 +11,17 @@
 ---
 
 # Classes
-* Circuits and Signals (Undergarduate Course)
-* Electronics I (Undergarduate Course) 
-* Computer-Aided Design of Circuits and Systems (Undergarduate Course) 
+* Circuits and Signals (Undergraduate Course)
+* Electronics I (Undergraduate Course) 
+* Computer-Aided Design of Circuits and Systems (Undergraduate Course) 
 * Computational Circuit Simulation & Macromodeling (Graduate Course)
-* Multiphysics Macromodeling and Dynamic System Identifications (Graduate special topics by arrangement)
+* Multiphysics Macromodeling and Dynamic System Identification (Graduate special topics by arrangement)
 * Advanced Network Theory: Linear, Nonlinear, and Dynamical Systems  (Graduate Course)<br>
   <small>(Highlights mathematical fidelity, causality, stability, and passivity)</small>
 * Simulation of High-Speed Interconnects and Vector-Fitting (Graduate Course)
 * **EE898:** Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (Graduate Course) — 2026 Winter
 * **EE898:** Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (Graduate Course) — 2026 Fall
-* **CME485:** Advanced EDA Algorithms for Circuit Simulation (Undergarduate Course) — 2027 Winter
+* **CME485:** Advanced EDA Algorithms for Circuit Simulation (Undergraduate Course) — 2027 Winter
 
 ---
 
@@ -52,7 +52,9 @@ In modern technology nodes, signal, power, and thermal integrity have become cri
 
 * [Macromodelling of Multiconductor Transmission Lines for Circuit Simulation](./MTL-Macromodel-25a05-v6.pdf)
 * [Standard Form for P.U.L RLGC Matrices of MTLs (Summary)](./PUL-RLGC-Matrices-format-v4.pdf)
-
+* [Multiconductor Transmission Lines](./Multiconductor-Transmission-Lines.pdf)<br>
+  <small>(From Maxwell’s Equations to Per-Unit-Length RLGC Matrices and Lumped Discretization Models)</small>
+  
 * [S-parameters Theory, Definition, Applications, and Analysis](./S-parameters-6a05-v2.pdf)
 
 ---
