@@ -11,11 +11,17 @@
 ---
 
 # Classes
-* Computer-Aided Design of Circuits and Systems -- Undergrad
-* Advanced Methods for Simulation of Large-Scale Circuits and Systems -- Grad
-* Simulation of High-Speed Interconnects and Vector-Fitting -- Grad
-* Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (EE898, Grad) -- 2026 Winter
-* Advanced EDA Algorithms for Circuit Simulation (CME485, Undergard) -- 2027 Winter
+* Circuits and Signals (Undergarduate Course)
+* Electronics I (Undergarduate Course) 
+* Computer-Aided Design of Circuits and Systems (Undergarduate Course) 
+* Computational Circuit Simulation & Macromodeling (Graduate Course)
+* Multiphysics Macromodeling and Dynamic System Identifications (Graduate special topics by arrangement)
+* Advanced Network Theory: Linear, Nonlinear, and Dynamical Systems  (Graduate Course)
+  (Highlights mathematical fidelity, Causality, stability, and passivity)
+* Simulation of High-Speed Interconnects and Vector-Fitting (Graduate Course)
+* **EE898** -- Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (Graduate Course) -- 2026 Winter
+* **EE898** -- Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (Graduate Course) -- 2026 Fall
+* **CME485** -- Advanced EDA Algorithms for Circuit Simulation (Undergarduate Course) -- 2027 Winter
 
 ---
 
