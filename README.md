@@ -2,7 +2,6 @@
 
 # Behzad Nouri, PhD - ECE, PEng, MIEEE
 
-### Behzad Nouri
 [About & Bio](BehzadNouri.md) · [Department Profile](https://engineering.usask.ca/people/ece/nouri.behzad.php)
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=2_Qj8WgAAAAJ)
