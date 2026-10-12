@@ -19,9 +19,9 @@
 * Advanced Network Theory: Linear, Nonlinear, and Dynamical Systems  (Graduate Course)<br>
   <small>(Highlights mathematical fidelity, causality, stability, and passivity)</small>
 * Simulation of High-Speed Interconnects and Vector-Fitting (Graduate Course)
-* **EE898** — Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (Graduate Course) -- 2026 Winter
-* **EE898** — Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (Graduate Course) -- 2026 Fall
-* **CME485** — Advanced EDA Algorithms for Circuit Simulation (Undergarduate Course) -- 2027 Winter
+* **EE898:** Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (Graduate Course) — 2026 Winter
+* **EE898:** Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (Graduate Course) — 2026 Fall
+* **CME485:** Advanced EDA Algorithms for Circuit Simulation (Undergarduate Course) — 2027 Winter
 
 ---
 
