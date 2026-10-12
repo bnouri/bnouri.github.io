@@ -16,7 +16,7 @@
 * Computer-Aided Design of Circuits and Systems (Undergarduate Course) 
 * Computational Circuit Simulation & Macromodeling (Graduate Course)
 * Multiphysics Macromodeling and Dynamic System Identifications (Graduate special topics by arrangement)
-* Advanced Network Theory: Linear, Nonlinear, and Dynamical Systems  (Graduate Course)
+* Advanced Network Theory: Linear, Nonlinear, and Dynamical Systems  (Graduate Course)<br>
   <small>(Highlights mathematical fidelity, causality, stability, and passivity)</small>
 * Simulation of High-Speed Interconnects and Vector-Fitting (Graduate Course)
 * **EE898** -- Advanced EDA Algorithms for Deep-Nanometer Circuit Simulation (Graduate Course) -- 2026 Winter
